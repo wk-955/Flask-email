@@ -1,0 +1,7 @@
+# 邮箱
+MAIL_SERVER = "smtp.qq.com"
+MAIL_PORT = "465"
+MAIL_USE_SSL = True
+MAIL_USERNAME = "1127480498@qq.com"
+MAIL_PASSWORD = "password" #生成的授权码
+MAIL_DEFAULT_SENDER = "1127480498@qq.com"
